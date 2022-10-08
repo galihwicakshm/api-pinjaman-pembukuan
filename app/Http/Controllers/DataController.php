@@ -113,6 +113,7 @@ class DataController extends Controller
         $validator = Validator::make(
             $request->all(),
             [
+                'id_pelanggan' => ['required', 'numeric'],
                 'bayar' => ['required', 'numeric'],
                 'bulanan_ke' => ['required', 'numeric'],
                 'tanggal_bayar' => ['required', 'date'],
