@@ -299,7 +299,13 @@
     
     <tr>
       <th>{1, 2, 3 ...}</th>
-      <td>Digunakan untuk memanggil ID Pelanggan</td>
+      <td>Digunakan untuk memanggil ID Data Pinjaman Pelanggan</td>
+      <td>Integer</td>
+    </tr>
+    
+    <tr>
+      <th>id_pelanggan</th>
+      <td>Digunakan untuk mengubah ID Pelanggan</td>
       <td>Integer</td>
     </tr>
     
