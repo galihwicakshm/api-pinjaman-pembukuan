@@ -2,7 +2,7 @@
 
 
 <div class="container mt-5">
-    <h5>Dokumen API Pinjaman Galih</h5>
+    <h5>Dokumen API Pinjaman Uang - Galih</h5>
     <table class="table">
   <thead>
     <tr>
